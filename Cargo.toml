@@ -1,0 +1,6 @@
+[package]
+name = "discrepancy"
+version = "0.1.0"
+authors = ["Anders Kaseorg <andersk@mit.edu>"]
+
+[dependencies]
